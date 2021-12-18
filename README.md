@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=영천%20GitHub&fontSize=90)
 
 [![Yooyoungcheon](https://img.shields.io/badge/Yooyoungcheon-F7DF1E?style=flat-square&logo=#40AEF0&logoColor=black)](github.com/yooyoungcheon)
+
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
