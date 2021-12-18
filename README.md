@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 [![Yooyoungcheon](https://img.shields.io/badge/Yooyoungcheon-F7DF1E?style=flat-square&logo=#40AEF0&logoColor=black)](github.com/yooyoungcheon)
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
